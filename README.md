@@ -73,4 +73,4 @@ This dashboard can help:
 
 ## 🤝 Acknowledgements
 
-Thanks to the **HR Analytic Repository** on Kaggle for providing the dataset used in this project.
+Thanks to the **People HR Analytics Repository** on Kaggle for providing the dataset used in this project.
